@@ -1,0 +1,17 @@
+---
+title: "Mapping"
+format: html
+---
+
+# Setting up our Map
+
+## Symbology
+
+Supply premade styles.csl files for users who don't wanna dig into the layer symbology in depth.
+
+### Colour Ramps and Stretching
+
+### Opacity
+
+
+

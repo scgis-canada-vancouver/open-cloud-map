@@ -1,0 +1,23 @@
+---
+title: "Setup"
+format: html
+---
+
+# QGIS
+
+## Intro to QGIS
+
+## Intro to QField
+
+## Downloading and Installing QGIS
+
+### Windows
+
+### Mac
+
+## Installing the QField Plugin
+
+## Adding Basemaps 
+Adding XYZ Tiles
+Google Satellite + Hybrid
+Open Street Map

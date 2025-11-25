@@ -1,0 +1,30 @@
+---
+title: "Processing"
+format: html
+---
+
+# Useful links for more info
+
+lidR Package
+lidar in QGIS
+
+# Loading our Data Layers
+
+## Orthomosaic Imagery
+PROBLEM: Provided in SID format - QGIS conversion for free?
+
+# Lidar Data Processing
+This will be quite complex, layers could just be given to workshop participants.
+
+## Digital Elevation Model
+
+### Slope
+
+### Hillshade
+
+## Canopy Height Model
+
+### Hillshade
+
+
+

@@ -1,0 +1,8 @@
+---
+title: "Open Cloud Based Mapping for Conservation"
+---
+
+This is a workshop on how to setup a cloud-based webmap and data collection proceedure using free and open software and datasets.
+
+
+

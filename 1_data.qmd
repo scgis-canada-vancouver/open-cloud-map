@@ -1,0 +1,25 @@
+---
+title: "1_data"
+format: html
+---
+
+# Overview
+
+## What is ortho imagery?
+
+## What is lidar?
+
+## What are data Portals
+
+# Downloading our Remote Sensing Data
+
+## Ortho Imagery
+
+## Lidar Data
+
+# Setting up our Database
+
+## Vector Data
+
+## Setting up our data collection geopackage
+
