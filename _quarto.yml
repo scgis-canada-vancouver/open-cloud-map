@@ -2,9 +2,9 @@ project:
   type: website
 
 website:
-  title: "Cloud Mapping Workshop - SCGIS Vancouver"
+  title: "Open Cloud Mapping"
   page-footer:
-    center: SCGIS Vancouver, Canada (2025)
+    center: SCGIS Vancouver, Canada (2026)
   navbar:
     left:
       - href: index.qmd
