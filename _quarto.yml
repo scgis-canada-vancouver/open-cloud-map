@@ -2,7 +2,9 @@ project:
   type: website
 
 website:
-  title: "open-cloud-map"
+  title: "Cloud Mapping Workshop - SCGIS Vancouver"
+  page-footer:
+    center: SCGIS Vancouver, Canada (2025)
   navbar:
     left:
       - href: index.qmd
@@ -13,11 +15,23 @@ website:
       - 3_map.qmd
       - 4_cloud.qmd
       - 5_collect.qmd
+    tools:
+      - icon: envelope
+        href: mailto:scgis.canada.vancouver@gmail.com
+        text: "Email the chapter representatives"
+      - icon: instagram
+        href: https://instagram.com/scgis.vancouver
+        text: "Follow us on Instagram"
+      - icon: github
+        href: https://github.com/scgis-canada-vancouver
+        text: "Follow our Github organization"
+      - icon: linkedin
+        href: https://www.linkedin.com/company/scgis-canada-vancouver
+        text: Follow us on Linkedin
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - brite
     css: styles.css
     toc: true

@@ -1,1 +1,31 @@
-/* css styles */
+/* ===========================
+   NAVBAR
+   =========================== */
+
+.navbar {
+  background-color: #253351;
+}
+
+.navbar .navbar-brand {
+  color: #fefeff;
+}
+
+/* Add smooth transition to nav links */
+a.nav-link,
+a.nav-link:after,
+a.nav-link:before {
+  transition: all .3s;
+}
+
+.navbar .nav-link {
+  color: #fefeff;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link:focus {
+  color: #6c92de;
+}
+
+.navbar .nav-link.active {
+  color: #c5dbff;
+}

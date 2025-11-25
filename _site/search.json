@@ -9,98 +9,98 @@
   {
     "objectID": "4_cloud.html",
     "href": "4_cloud.html",
-    "title": "Cloud",
+    "title": "4_Cloud",
     "section": "",
     "text": "Setting up QField\n\n\nSetting up QFieldcloud"
   },
   {
     "objectID": "2_process.html",
     "href": "2_process.html",
-    "title": "Processing",
+    "title": "2_Processing",
     "section": "",
     "text": "lidR Package lidar in QGIS"
   },
   {
     "objectID": "2_process.html#orthomosaic-imagery",
     "href": "2_process.html#orthomosaic-imagery",
-    "title": "Processing",
+    "title": "2_Processing",
     "section": "Orthomosaic Imagery",
     "text": "Orthomosaic Imagery\nPROBLEM: Provided in SID format - QGIS conversion for free?"
   },
   {
     "objectID": "2_process.html#digital-elevation-model",
     "href": "2_process.html#digital-elevation-model",
-    "title": "Processing",
+    "title": "2_Processing",
     "section": "Digital Elevation Model",
     "text": "Digital Elevation Model\n\nSlope\n\n\nHillshade"
   },
   {
     "objectID": "2_process.html#canopy-height-model",
     "href": "2_process.html#canopy-height-model",
-    "title": "Processing",
+    "title": "2_Processing",
     "section": "Canopy Height Model",
     "text": "Canopy Height Model\n\nHillshade"
   },
   {
     "objectID": "0_setup.html",
     "href": "0_setup.html",
-    "title": "Setup",
+    "title": "0_Setup",
     "section": "",
     "text": "Adding XYZ Tiles Google Satellite + Hybrid Open Street Map"
   },
   {
     "objectID": "0_setup.html#adding-basemaps",
     "href": "0_setup.html#adding-basemaps",
-    "title": "Setup",
+    "title": "0_Setup",
     "section": "",
     "text": "Adding XYZ Tiles Google Satellite + Hybrid Open Street Map"
   },
   {
     "objectID": "1_data.html#ortho-imagery",
     "href": "1_data.html#ortho-imagery",
-    "title": "1_data",
+    "title": "1_Data",
     "section": "Ortho Imagery",
     "text": "Ortho Imagery"
   },
   {
     "objectID": "1_data.html#lidar-data",
     "href": "1_data.html#lidar-data",
-    "title": "1_data",
+    "title": "1_Data",
     "section": "Lidar Data",
     "text": "Lidar Data"
   },
   {
     "objectID": "1_data.html#vector-data",
     "href": "1_data.html#vector-data",
-    "title": "1_data",
+    "title": "1_Data",
     "section": "Vector Data",
     "text": "Vector Data"
   },
   {
     "objectID": "1_data.html#setting-up-our-data-collection-geopackage",
     "href": "1_data.html#setting-up-our-data-collection-geopackage",
-    "title": "1_data",
+    "title": "1_Data",
     "section": "Setting up our data collection geopackage",
     "text": "Setting up our data collection geopackage"
   },
   {
     "objectID": "3_map.html",
     "href": "3_map.html",
-    "title": "Mapping",
+    "title": "3_Mapping",
     "section": "",
     "text": "Supply premade styles.csl files for users who don’t wanna dig into the layer symbology in depth."
   },
   {
     "objectID": "3_map.html#symbology",
     "href": "3_map.html#symbology",
-    "title": "Mapping",
+    "title": "3_Mapping",
     "section": "",
     "text": "Supply premade styles.csl files for users who don’t wanna dig into the layer symbology in depth."
   },
   {
     "objectID": "5_collect.html",
     "href": "5_collect.html",
-    "title": "Data Collection",
+    "title": "5_Collection",
     "section": "",
     "text": "Using our cloud map\nTime to collect some data!\nInvasive species cover - ivy infested trees - Point dataset with fields including species, level of infestation, ivy cover (%)"
   }
