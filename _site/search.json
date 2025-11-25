@@ -16,28 +16,28 @@
   {
     "objectID": "2_process.html",
     "href": "2_process.html",
-    "title": "2_Processing",
+    "title": "2_Process",
     "section": "",
     "text": "lidR Package lidar in QGIS"
   },
   {
     "objectID": "2_process.html#orthomosaic-imagery",
     "href": "2_process.html#orthomosaic-imagery",
-    "title": "2_Processing",
+    "title": "2_Process",
     "section": "Orthomosaic Imagery",
     "text": "Orthomosaic Imagery\nPROBLEM: Provided in SID format - QGIS conversion for free?"
   },
   {
     "objectID": "2_process.html#digital-elevation-model",
     "href": "2_process.html#digital-elevation-model",
-    "title": "2_Processing",
+    "title": "2_Process",
     "section": "Digital Elevation Model",
     "text": "Digital Elevation Model\n\nSlope\n\n\nHillshade"
   },
   {
     "objectID": "2_process.html#canopy-height-model",
     "href": "2_process.html#canopy-height-model",
-    "title": "2_Processing",
+    "title": "2_Process",
     "section": "Canopy Height Model",
     "text": "Canopy Height Model\n\nHillshade"
   },
@@ -86,21 +86,21 @@
   {
     "objectID": "3_map.html",
     "href": "3_map.html",
-    "title": "3_Mapping",
+    "title": "3_Map",
     "section": "",
     "text": "Supply premade styles.csl files for users who don’t wanna dig into the layer symbology in depth."
   },
   {
     "objectID": "3_map.html#symbology",
     "href": "3_map.html#symbology",
-    "title": "3_Mapping",
+    "title": "3_Map",
     "section": "",
     "text": "Supply premade styles.csl files for users who don’t wanna dig into the layer symbology in depth."
   },
   {
     "objectID": "5_collect.html",
     "href": "5_collect.html",
-    "title": "5_Collection",
+    "title": "5_Collect",
     "section": "",
     "text": "Using our cloud map\nTime to collect some data!\nInvasive species cover - ivy infested trees - Point dataset with fields including species, level of infestation, ivy cover (%)"
   }
